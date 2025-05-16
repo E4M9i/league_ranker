@@ -14,7 +14,7 @@ This application processes match results from a file or standard input and gener
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/league-ranker.git
+git clone https://github.com/E4M9i/league_ranker.git
 cd league-ranker
 
 # Optional: Create a virtual environment
