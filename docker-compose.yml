@@ -1,0 +1,7 @@
+services:
+  league-ranker:
+    build: .
+    volumes:
+      - ./:/app
+    stdin_open: true  
+    tty: true        

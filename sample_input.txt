@@ -1,0 +1,12 @@
+South Africa 2, Germany 1
+Brazil 3, France 2
+Spain 1, Italy 1
+South Africa 1, Brazil 1
+Germany 2, Spain 2
+France 2, Italy 2
+South Africa 3, France 1
+Germany 2, Italy 2
+Brazil 1, Spain 1
+South Africa 3, Senegal 0
+Germany 2, Senegal 0
+Brazil 4, Senegal 1
